@@ -15,4 +15,5 @@ function fetchData(urlApi, callback) {
       return callback(error, null);
     }
   }
+  xhttp.send();
 }
