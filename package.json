@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo-js",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Carlos Florez <carlos.andres.ff2912@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosandf/asincronismo-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlosandf/asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/carlosandf/asincronismo-js#readme"
+}
