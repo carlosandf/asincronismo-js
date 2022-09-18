@@ -4,7 +4,8 @@
   "description": "Curso de asincronismo con JavaScript",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/challenge.js"
+    "callback": "node src/callback/challenge.js",
+    "promise": "node src/promise/challenge.js"
   },
   "keywords": [
     "JavaScript"
@@ -20,6 +21,8 @@
   },
   "homepage": "https://github.com/carlosandf/asincronismo-js#readme",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
